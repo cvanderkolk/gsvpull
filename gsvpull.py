@@ -2,7 +2,7 @@ import urllib, os
 import cv2
 import numpy as np
 
-myloc = r"downloaded/resizer/" # location for your files here
+myloc = r"" # location for your files here
 key = "&key=" + "" # you can get a special API key from Google if you want, otherwise, play easy or google will get mad
 
 def GetStreet(Add,SaveLoc):
