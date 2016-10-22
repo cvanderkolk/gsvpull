@@ -1,5 +1,4 @@
 import urllib, os
-import cv2
 import numpy as np
 
 myloc = r"" # location for your files here
